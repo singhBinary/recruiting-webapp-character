@@ -44,3 +44,19 @@
     transform: rotate(360deg);
   }
 }
+
+.flex {
+  display: flex;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.gap-4 {
+  gap: 4rem;
+}
+
+.text-orange {
+  color: orange;
+}
